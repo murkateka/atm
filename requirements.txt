@@ -1,0 +1,3 @@
+git add requirements.txt
+git commit -m "Добавил requirements.txt для Telegram-бота"
+git push
